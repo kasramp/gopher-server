@@ -1,0 +1,10 @@
+iWelcome to the simple Gopher server	
+
+iThis is a handcrafted home page of the server that one can customize.	
+iOtherwise by default	
+hPituophis	URL:https://github.com/dotcomboom/Pituophis
+idisplays all the file in the specified directory.	
+
+0Get a copy of readme file	README.md
+1Directory of sample texts	txt
+1Directory of sample images	img
